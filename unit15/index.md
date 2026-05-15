@@ -4,7 +4,7 @@ Welcome to the Unit 15 notes section.
 
 ## Class Plans
 
-- [2026-05-15](./class-plans/2026-05-15.md)
+- [2026-05-15: Snatch Cycling](./class-plans/2026-05-15-snatch-cycling.md)
 
 ## Notes
 
