@@ -1,6 +1,6 @@
 # Notes Home
 
-This repository is the home for coaching notes and teaching resources.
+Notes and public records by Daniel Pressley
 
 ## Current content
 
