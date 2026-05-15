@@ -1,11 +1,19 @@
-# unit15
-Dan's personal coaching notes for Unit 15 classes.
+# Notes Home
 
-## Table of Contents
+This repository is the home for coaching notes and teaching resources.
 
-- [2026-05-15](class-plans/2026-05-15.md)
+## Current content
+
+- [Unit 15](./unit15/)
+
+## Structure
+
+- `unit15/`
+  - `class-plans/`
+    - individual markdown class plans
 
 ## Notes
 
-- Whenever a new Markdown file is created or uploaded, add it to this table of contents.
-- Keep new entries under `class-plans/` so this root README functions like an index page.
+- Add new units at the repository root as needed.
+- Add Unit 15 class plans under `unit15/class-plans/` and link them from `unit15/README.md`.
+- More units and content will be added over time.
