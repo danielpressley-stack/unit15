@@ -1,0 +1,68 @@
+# 15 May 2026
+
+>## Timeline
+>0615 - WB  
+>0620 - GWU  
+>0630 - Coach the snatch (up to 25/35kg)  
+>0642 - Coach cycling the power snatch   
+>0650 - Set of 10-20 at working weight  
+>0652 - Wees and whiteboards    
+>0657 - Workout begins  
+>0710 - Cool down  
+
+## GWU
+
+**1RFQ _with a wall ball_**
+
+- 16/20 cals
+- Walkout shoulder taps, toe taps
+- Goblet squats
+- WGS
+- WB Thrusters
+- TYIs
+- 3 × 10 WBs
+
+### Notes
+
+1. Feet shoulder width, arm's length from wall
+1. Hands underneath ball
+1. Extend before you use arms
+
+## Power snatch (0630)
+
+### SG DLs
+
+- Grip
+- Proud chest
+
+### Snatch high pulls
+
+- Close to body
+- Change of speed  
+
+### Muscle snatches
+
+- Punchy lockout
+- Barbell over mid-foot
+
+### Power snatches
+
+_We'll soon be showing how power snatch and cycled power snatch differ_     
+- For now, land with wider foot stance, pause, stand
+- 5x3 linked reps at working weight   
+
+## Cycle the power snatch (0640)
+
+_Strip the bar. We're linking reps from the top now_
+
+1. Keep hookgrip in if you can
+1. Feet stay still. Wider foot position in set-up
+1. Elbows stay under the bar until bar is beneath eye level
+1. Use minimal arm strength, push through the floor
+
+> ## Workout : For Time (0655)
+> 100 power snatches (25/35)
+> 
+> Every time you break:   
+> 10 wall balls (6/9)  
+> _12 min cap_
