@@ -34,7 +34,7 @@ When generating the timeline, include:
 11. Safety and layout reminders
 
 ## Formatting guidance
-Use the example note layout from `unit15/class-plans/2026-05-15 - Snatch.md`. Include a date header, a timeline block, section headings for warm-up and movement work, bullet points or numbered coaching cues, and a concise WOD block.
+Use the example note layout from `unit15/class-plans/2026-05-15-snatch-cycling.md`. Include a date header, a timeline block, section headings for warm-up and movement work, bullet points or numbered coaching cues, and a concise WOD block.
 
 ## Warm-up guidance
 If the schedule allows, use the typical warm-up structure: `400m run or 20-16 cals C2`, `2RFQ`, then `4-5 activation movements`.

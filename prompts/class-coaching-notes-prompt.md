@@ -6,7 +6,7 @@ Generate a full coach-led class plan that includes timeline, warm-up, skill/stre
 ## Sources to consult
 - `crossfit-class-planning-guide.md` for class timing, structure, and coach-led requirements.
 - `unit15/class-plans/Temp/CF-Coaching Fundamentals.pdf` for movement teaching, seeing/correcting, scaling, and coaching drills.
-- Example note format: `unit15/class-plans/2026-05-15 - Snatch.md`.
+- Example note format: `unit15/class-plans/2026-05-15-snatch-cycling.md`.
 
 ## Key instruction
 Do not limit the plan to the primary movement only. Include:

@@ -14,4 +14,4 @@
 `2026-05-18 - Power Snatch.md`
 
 ## Example assistant prompt
-"Use `crossfit-class-planning-guide.md`, the attached `CF-Coaching Fundamentals.pdf`, and the example note format in `unit15/class-plans/2026-05-15 - Snatch.md` to generate a 60-minute coach-led class plan. Include times, coaching cues, specific movement progressions, scaling options, safety notes, and cool-down guidance."
+"Use `crossfit-class-planning-guide.md`, the attached `CF-Coaching Fundamentals.pdf`, and the example note format in `unit15/class-plans/2026-05-15-snatch-cycling.md` to generate a 60-minute coach-led class plan. Include times, coaching cues, specific movement progressions, scaling options, safety notes, and cool-down guidance."

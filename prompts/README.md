@@ -20,7 +20,7 @@ When you ask GitHub Copilot to create a class timeline, the assistant should:
 
 ## File naming and note style
 - Use `YYYY-MM-DD - <Principal Movement>.md` for class notes, where the principal movement is the "meat of the sandwich."
-- Use the example file `unit15/class-plans/2026-05-15 - Snatch.md` as the model for formatting.
+- Use the example file `unit15/class-plans/2026-05-15-snatch-cycling.md` as the model for formatting.
 - Include a top-level date heading, timeline block, warm-up section, movement-specific coaching progressions, and WOD details.
 - Consult `unit15/class-plans/Temp/CF-Coaching Fundamentals.pdf` for teaching cues, fault correction, scaling options, and coaching drills.- Warm-ups should usually be:
   - `400m run or 20-16 cals C2`, then `2RFQ`, then `4-5 activation movements`.
