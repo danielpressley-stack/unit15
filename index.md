@@ -15,5 +15,5 @@ Notes and public records by Daniel Pressley
 ## Notes
 
 - Add new units at the repository root as needed.
-- Add Unit 15 class plans under `unit15/class-plans/` and link them from `unit15/README.md`.
+- Add Unit 15 class plans under `unit15/class-plans/` and link them from `./unit15/`.
 - More units and content will be added over time.

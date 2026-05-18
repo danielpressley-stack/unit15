@@ -4,7 +4,7 @@ Dan's personal coaching notes for Unit 15 classes.
 
 ## Table of Contents
 
-- [2026-05-15](class-plans/2026-05-15.md)
+- [2026-05-15 - Snatch](class-plans/2026-05-15 - Snatch.md)
 
 ## Notes
 
