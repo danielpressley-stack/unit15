@@ -5,6 +5,7 @@ Dan's personal coaching notes for Unit 15 classes.
 ## Table of Contents
 
 - [2026-05-15: Snatch Cycling](class-plans/2026-05-15-snatch-cycling.md)
+- [2026-05-21: Power Snatch](class-plans/2026-05-21 - Power Snatch.md)
 
 ## Notes
 

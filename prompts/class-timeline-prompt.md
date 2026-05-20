@@ -38,8 +38,11 @@ Use the example note layout from `unit15/class-plans/2026-05-15-snatch-cycling.m
 
 ## Warm-up guidance
 If the schedule allows, use the typical warm-up structure: `400m run or 20-16 cals C2`, `2RFQ`, then `4-5 activation movements`.
+
+**Time-based movement blocks:** For each movement in 2RFQ, allocate **30 seconds per movement** rather than a fixed rep count. For movements like arm circles, 30 seconds represents the total duration in both directions combined (e.g., 15 seconds forward, 15 seconds backward).
+
 If time is tight, use a `6-7 minute AMRAP` warm-up with `10/8 calories` plus `3-4 movements` from the activation list, cycling through all four movements until time expires.
-Straddle side leans and World’s Greatest Stretch should be categorized as posterior chain activation.
+Straddle side leans and World's Greatest Stretch should be categorized as posterior chain activation.
 
 ## Example request
 - Date: 18 May 2026
