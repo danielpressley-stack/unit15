@@ -8,7 +8,7 @@
 >0700 - Workout begins  
 >0709 - Cool down  
 
-##
+
 
 ## GWU
 **16/20 cals C2**
@@ -20,7 +20,7 @@
 - PVC pass-throughs
 - 5 tall jumps
 
-##
+
 
 ## Power snatch (0630)
 
@@ -28,36 +28,35 @@
 - Proud chest, shoulders over the bar
 - Bar stays in contact with the legs
 
-##
 
 ### Snatch high pulls
 - Hips and shoulders rise together to mid-thigh
 - Change of direction — fast through the middle
 
-##
+
 
 ### Muscle snatches
 - Elbows stay high and outside until lockout
 - Barbell over mid-foot
 
-##
+
 
 ### Power snatches
 - Heels down until hips and knees extend
 - Land with a slightly wider stance, pause, stand
 - 3 × 3 linked reps at a light working weight before building
 
-##
+
 
 ### Power snatch + hang power snatch complex
 - Keep hookgrip at the top of the power snatch
 - Reset to power position before the hang rep: slight knee bend, shoulders over the bar
 - Feet stay still throughout
 
-##
+
 
 ## Build to heavy 1PS + 1HPS (0640)
-##
+
 
 > ## Workout : For Time (0700)
 > 9-minute ladder  
@@ -69,7 +68,7 @@
 > Every rep starts from the hang — not the floor.  
 > _9 min cap_
 
-##
+
 
 ### Scaling
 - Reduce load if you cannot complete the first three rounds (3/3, 6/6, 9/9) unbroken on the barbell
